@@ -9,4 +9,4 @@ total = funcWithArg(6);
 //Only change code above this line
 
 console.log(total);
-module.exports - funcWithArg;
+module.exports = funcWithArg;

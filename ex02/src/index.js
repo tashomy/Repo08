@@ -1,6 +1,6 @@
 //Write code below this line
 function functionPrintInfo(name, age) {
-  console.log(name + " " + age);
+  console.log(name, age);
 }
 
 functionPrintInfo("Natasa", 21);
